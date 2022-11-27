@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rayhan. 
-- 👀 I’m interested in Full Stack Web Development. 
+- 👀 I’m interested in FullStack Web Development. 
 - 🌱 I’m currently learning Javescrpt. 
 - 💞️ I’m looking to collaborate on Web developers.
 - 📫 How to reach me ....
